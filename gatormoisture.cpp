@@ -19,6 +19,7 @@
 #include <math.h>
 
 using namespace pxt;
+using namespace serial;
 
 namespace gatorMoisture {
     /*

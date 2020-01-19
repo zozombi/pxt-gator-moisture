@@ -24,10 +24,9 @@
  }
 
 
-
 //% color=#f44242 icon="\uf185"
 namespace gatorMoisture {
-
+    
     // Functions for reading light from the gatorlight in lux or straight adv value
 
     /**
@@ -52,4 +51,6 @@ namespace gatorMoisture {
         return 0
     }
 
-    }
+}
+
+
