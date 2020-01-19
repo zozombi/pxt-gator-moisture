@@ -1,0 +1,17 @@
+{
+    "name": "Untitled",
+    "description": "",
+    "dependencies": {
+        "core": "*",
+        "radio": "*",
+        "gatormoisture": "pkg:gatormoisture.json",
+        "neopixel": "github:microsoft/pxt-neopixel#v0.6.12"
+    },
+    "files": [
+        "main.blocks",
+        "main.ts",
+        "README.md",
+        "gatormoisture.json"
+    ],
+    "preferredEditor": "blocksprj"
+}

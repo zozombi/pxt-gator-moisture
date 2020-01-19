@@ -1,0 +1,16 @@
+{
+    "target": "microbit",
+    "targetVersion": "2.1.42",
+    "editor": "tsprj",
+    "name": "gatormoisture",
+    "meta": {},
+    "pubId": "",
+    "pubCurrent": false,
+    "id": "611a0604-9bbf-4ffa-0a67-bc05213b25c2",
+    "recentUse": 1579462938,
+    "modificationTime": 1579462593,
+    "path": "gatormoisture",
+    "blobCurrent": false,
+    "saveId": null,
+    "githubCurrent": false
+}

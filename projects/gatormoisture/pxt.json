@@ -1,0 +1,26 @@
+{
+    "name": "gatormoisture",
+    "version": "0.0.5",
+    "description": "SparkFun gator:moisture Temperature Sensor",
+    "license": "MIT",
+    "dependencies": {
+        "core": "*"
+    },
+    "files": [
+        "README.md",
+        "gatormoisture.ts",
+        "gatormoisture.cpp",
+        "shims.d.ts",
+        "enums.d.ts"
+    ],
+    "testFiles": [],
+    "public": true,
+    "targetVersions": {
+        "branch": "v2.1.42",
+        "tag": "v2.1.42",
+        "commits": "https://github.com/microsoft/pxt-microbit/commits/67e1692c2ddb6a8334ce39d01f322ab541de534a",
+        "target": "2.1.42",
+        "pxt": "5.32.3"
+    },
+    "preferredEditor": "tsprj"
+}
